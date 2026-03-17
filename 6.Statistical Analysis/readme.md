@@ -17,3 +17,6 @@ We will cover some topics like:
 6. Binomial Distribution.
 
 to name some
+
+
+Note: The Notebooks in this repository contains only text, will update the code once done.
